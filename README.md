@@ -268,12 +268,68 @@ Ottenute tramite la risposta in frequenza ed i diagrammi di Bode
 
 ### 14.2 Strumenti magnetoelettrici
 
-- [ ] Strumenti magnetoelettrici
-- [ ] Voltmetro
-- [ ] Misure in salita ed in discesa
-- [ ] Classe dello strumento
-- [ ] Massimo errore
-- [ ] Incertezza tipo
+- [x] Strumenti magnetoelettrici
+- [x] Voltmetro
+- [x] Misure in salita ed in discesa
+- [x] Classe dello strumento
+- [x] Massimo errore
+- [x] Incertezza tipo
 
 ### 14.3 Misure in corrente continua P1
+
+## 16 Oscillatori e contatori
+
+### 16 Oscillatori e contatori
+
+- [x] Oscillatori - circuito risonante rlc
+- [x] Risonatore al quarzo
+- [x] Contatori numerici con flip-flop
+- [x] Contatore a decadi
+- [x] Contatore di frequenza
+  - [x] Trigger
+  - [x] Accoppiatore AC/DC
+  - [x] GATE
+  - [x] Incertezza di quantizzazione
+- [x] Contatore di eventi
+- [x] Frequenzimetro considerazioni
+- [x] Periodimetro e quando usarlo
+
+## 17. Multimetri
+
+### 17 Multimetri numerici
+
+- [x] Misura di tensione
+  - [x] Voltage divider
+  - [x] Cimatore
+  - [x] Selettore AC/DC
+    - [x] il blocco RMS/DC, come calcolare il valore efficace
+    - [x] Circuiti base per l'RMS
+    - [ ] Circuito True RMS
+    - [ ] Circuito per True RMS termico
+- [ ] Misura di corrente
+  - [ ] Shunt
+- [ ] Misura di resistenze
+  - [ ] Misura a due morsetti
+  - [ ] Misura a quattro morsetti
+
+## 18. Terza esercitazione: LPF
+
+### ME 18 Terza esercitazione
+
+info sulla terza esercitazione
+
+## 19. Sistemi automatici di misura
+
+### ME 19 - Sistemi automatici di misura
+
+- [x] intro
+- [x] bottleneck
+- [x] protocollo di comunicazione seriale
+- [x] protocollo di comunicazione GPIB 7/ IEEE 488
+- [x] Schede acquisizione dati
+- [ ] Misure distribuite
+- [ ] Sistemi strettamente accoppiati
+- [ ] Sistemi debolmente accoppiati
+- [ ] Software usati per controllare la strumentazione
+  - [ ] Strumento virtuale
 
