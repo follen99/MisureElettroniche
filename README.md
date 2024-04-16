@@ -2,6 +2,18 @@
 Repository dedicata all'esame di sistemi di Misure Elettroniche
 
 # Ripetizione
+
+## Dimostrazioni importanti
+
+- [ ] Incertezza Composta
+- [ ] Ponti in CC e CA
+- [ ] Capacità parassite
+- [ ] SNR della sinusoide
+- [ ] Architetture DAC
+- [ ] Noise Shaping
+- [ ] Metodo VoltAmperometrico
+- [ ] Circuiti TRMS
+
 ## 2. Metrologia
 - [x] Introduzione
 - [x] Incertezza
