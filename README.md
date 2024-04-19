@@ -1,16 +1,26 @@
 # MisureElettroniche
 Repository dedicata all'esame di sistemi di Misure Elettroniche
 
+## Guida alla repository
+
+Per farti un'idea generale del corso puoi visualizzare il file `Appunti/0.1 CheatSheet misure elettroniche` dove ci sono tutti i concetti più importanti. 
+
+Anche i files `/appunti/Dimostrazioni/` sono importanti: in questi files vengono riportate tutte le dimostrazioni scritte chieste all'esame.
+
+Nella cartella `Appunti/esercitazioni mie` puoi trovare le 3 esercitazioni svolte durante il corso (2020/2021 a distanza).
+
+Nella cartella `Pratica&Simulazione` puoi trovare diversi circuiti simulati con il programma [CircuitJS](https://www.falstad.com/circuit/circuitjs.html) ed una cartella `Ponte Di Winston` dove puoi trovare un esempio di realizzazione del ponte con una breadboard.
+
 # Ripetizione
 
 ## Dimostrazioni importanti
 
-- [ ] Incertezza Composta
-- [ ] Ponti in CC e CA
-- [ ] Capacità parassite
-- [ ] SNR della sinusoide
-- [ ] Architetture DAC
-- [ ] Noise Shaping
+- [x] Incertezza Composta
+- [x] Ponti in CC e CA
+- [x] Capacità parassite
+- [x] SNR della sinusoide
+- [x] Architetture DAC
+- [x] Noise Shaping
 - [ ] Metodo VoltAmperometrico
 - [ ] Circuiti TRMS
 
